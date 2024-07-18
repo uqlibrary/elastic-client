@@ -1,5 +1,5 @@
 {
-    "name": "babenkoivan/elastic-client",
+    "name": "uqlibrary/elastic-client",
     "description": "The official PHP Elasticsearch client integrated with Laravel",
     "keywords": [
         "laravel",
