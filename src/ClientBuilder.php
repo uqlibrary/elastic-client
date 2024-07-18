@@ -2,8 +2,8 @@
 
 namespace Elastic\Client;
 
-use Elastic\Elasticsearch\Client;
-use Elastic\Elasticsearch\ClientBuilder as BaseClientBuilder;
+use OpenSearch\Client;
+use OpenSearch\ClientBuilder as BaseClientBuilder;
 use ErrorException;
 
 class ClientBuilder implements ClientBuilderInterface

@@ -104,7 +104,7 @@ Use `Elastic\Client\ClientBuilderInterface` to get access to the client instance
 ```php
 namespace App\Console\Commands;
 
-use Elastic\Elasticsearch\Client;
+use OpenSearch\Client;
 use Elastic\Client\ClientBuilderInterface;
 use Illuminate\Console\Command;
 

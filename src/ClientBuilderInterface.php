@@ -2,7 +2,7 @@
 
 namespace Elastic\Client;
 
-use Elastic\Elasticsearch\Client;
+use OpenSearch\Client;
 
 interface ClientBuilderInterface
 {
